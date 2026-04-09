@@ -21,6 +21,6 @@ I added a click interaction where selecting a category in the first chart filter
 
 ## Links
 
-[The Data](PUT DATA LINK HERE)
+[The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
 
-[The Analysis](PUT NOTEBOOK LINK HERE)
+[The Analysis](https://github.com/dphelan3/dphelan3.github.io/blob/main/HW5-2.ipynb)
