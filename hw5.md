@@ -7,13 +7,13 @@ title: Homework 6 Visualization
 
 <iframe src="plot1.html" width="700" height="500"></iframe>
 
-This visualization shows...
+This visualization shows the number of licenses for each license type in the dataset. I used a bar chart because it makes it easy to compare how many records fall into each category. The x-axis represents the number of licenses, which is a quantitative variable, and the y-axis represents the license type, which is categorical. I also used color to distinguish between the different license types so it is easier to read and compare across the chart. In my analysis, I cleaned the data by removing missing values and focused on the top 10 most common license types so the chart would not be too crowded.
 
 ## Plot 2
 
 <iframe src="plot2.html" width="700" height="500"></iframe>
 
-This visualization shows...
+This visualization shows how license expiration years are distributed across different license types. I used a scatter plot to show how the data is spread out over time for each category. The x-axis represents the expiration year, and the y-axis represents the license type. I kept the color encoding consistent with the first chart so the categories are easy to follow. In my notebook, I converted the expiration date column into a datetime format and extracted the year so it could be used clearly in the visualization.
 
 ## Interactivity
 
