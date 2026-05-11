@@ -20,3 +20,8 @@ This chart shows the most common crime types in the dataset. It helps give a bas
 This chart shows how the number of reported crimes in Chicago has changed over time. By grouping the data by year, it becomes easier to see overall trends instead of focusing on individual incidents. The chart helps highlight whether crime has been increasing, decreasing, or staying relatively stable over the years.
 
 Looking at the trend, there are noticeable changes in total crime counts across different years. Some years show higher levels of reported crime, while others show declines. These patterns could be influenced by a variety of factors such as changes in policing strategies, economic conditions, or shifts in population. Overall, this visualization provides a broader view of how crime in Chicago has evolved over time and helps give context to the specific crime types shown in the previous chart.
+
+
+## Data Source
+
+Chicago Data Portal: https://data.cityofchicago.org/
